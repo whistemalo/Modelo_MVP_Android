@@ -1,7 +1,7 @@
 # Modelo_MVP_Android
 Apliacion del modelo MVP para le diseño de una interfaz para el incio de sesion del usuario
 
-##Integrantes
+
 
 
 ### Link de los resumenes
